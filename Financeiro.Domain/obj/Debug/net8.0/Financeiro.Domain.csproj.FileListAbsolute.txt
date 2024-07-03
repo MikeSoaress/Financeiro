@@ -1,0 +1,11 @@
+C:\Users\mikes\source\repos\Financeiro\Financeiro.Domain\bin\Debug\net8.0\Financeiro.Domain.deps.json
+C:\Users\mikes\source\repos\Financeiro\Financeiro.Domain\bin\Debug\net8.0\Financeiro.Domain.dll
+C:\Users\mikes\source\repos\Financeiro\Financeiro.Domain\bin\Debug\net8.0\Financeiro.Domain.pdb
+C:\Users\mikes\source\repos\Financeiro\Financeiro.Domain\obj\Debug\net8.0\Financeiro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikes\source\repos\Financeiro\Financeiro.Domain\obj\Debug\net8.0\Financeiro.Domain.AssemblyInfoInputs.cache
+C:\Users\mikes\source\repos\Financeiro\Financeiro.Domain\obj\Debug\net8.0\Financeiro.Domain.AssemblyInfo.cs
+C:\Users\mikes\source\repos\Financeiro\Financeiro.Domain\obj\Debug\net8.0\Financeiro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mikes\source\repos\Financeiro\Financeiro.Domain\obj\Debug\net8.0\Financeiro.Domain.dll
+C:\Users\mikes\source\repos\Financeiro\Financeiro.Domain\obj\Debug\net8.0\refint\Financeiro.Domain.dll
+C:\Users\mikes\source\repos\Financeiro\Financeiro.Domain\obj\Debug\net8.0\Financeiro.Domain.pdb
+C:\Users\mikes\source\repos\Financeiro\Financeiro.Domain\obj\Debug\net8.0\ref\Financeiro.Domain.dll

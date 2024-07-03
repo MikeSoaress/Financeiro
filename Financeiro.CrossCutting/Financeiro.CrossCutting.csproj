@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Financeiro.Application\Financeiro.Application.csproj" />
+    <ProjectReference Include="..\Financeiro.Domain\Financeiro.Domain.csproj" />
+    <ProjectReference Include="..\Financeiro.Infrastructure\Financeiro.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

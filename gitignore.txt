@@ -1,0 +1,38 @@
+# Ignore Visual Studio temporary files, build results, and folder config file
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files (backup, etc.)
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+*.cache
+*.csproj.user
+*.csproj.bak
+*.csproj.FileListAbsolute.txt
+
+# Ignore build results
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+[Xx]64/
+[Xx]86/

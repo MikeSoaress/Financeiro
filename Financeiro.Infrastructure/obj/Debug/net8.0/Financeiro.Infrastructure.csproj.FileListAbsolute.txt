@@ -1,0 +1,17 @@
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\obj\Debug\net8.0\Financeiro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\obj\Debug\net8.0\Financeiro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\obj\Debug\net8.0\Financeiro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\obj\Debug\net8.0\Financeiro.Infrastructure.AssemblyInfo.cs
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\obj\Debug\net8.0\Financeiro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\bin\Debug\net8.0\Financeiro.Infrastructure.deps.json
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\bin\Debug\net8.0\Financeiro.Infrastructure.runtimeconfig.json
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\bin\Debug\net8.0\Financeiro.Infrastructure.dll
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\bin\Debug\net8.0\Financeiro.Infrastructure.pdb
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\bin\Debug\net8.0\Financeiro.Domain.dll
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\bin\Debug\net8.0\Financeiro.Domain.pdb
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\obj\Debug\net8.0\Financeiro.Infrastructure.csproj.CopyComplete
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\obj\Debug\net8.0\Financeiro.Infrastructure.dll
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\obj\Debug\net8.0\refint\Financeiro.Infrastructure.dll
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\obj\Debug\net8.0\Financeiro.Infrastructure.pdb
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\obj\Debug\net8.0\Financeiro.Infrastructure.genruntimeconfig.cache
+C:\Users\mikes\source\repos\Financeiro\financeiro.infrastructure\obj\Debug\net8.0\ref\Financeiro.Infrastructure.dll

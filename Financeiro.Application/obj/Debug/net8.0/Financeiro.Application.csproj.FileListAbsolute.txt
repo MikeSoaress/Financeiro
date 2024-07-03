@@ -1,0 +1,15 @@
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\obj\Debug\net8.0\Financeiro.Application.csproj.AssemblyReference.cache
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\obj\Debug\net8.0\Financeiro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\obj\Debug\net8.0\Financeiro.Application.AssemblyInfoInputs.cache
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\obj\Debug\net8.0\Financeiro.Application.AssemblyInfo.cs
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\obj\Debug\net8.0\Financeiro.Application.csproj.CoreCompileInputs.cache
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\bin\Debug\net8.0\Financeiro.Application.deps.json
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\bin\Debug\net8.0\Financeiro.Application.dll
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\bin\Debug\net8.0\Financeiro.Application.pdb
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\bin\Debug\net8.0\Financeiro.Domain.dll
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\bin\Debug\net8.0\Financeiro.Domain.pdb
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\obj\Debug\net8.0\Financeiro.Application.csproj.CopyComplete
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\obj\Debug\net8.0\Financeiro.Application.dll
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\obj\Debug\net8.0\refint\Financeiro.Application.dll
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\obj\Debug\net8.0\Financeiro.Application.pdb
+C:\Users\mikes\source\repos\Financeiro\financeiro.application\obj\Debug\net8.0\ref\Financeiro.Application.dll
